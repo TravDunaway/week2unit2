@@ -1,0 +1,10 @@
+name,cost,flavor,gluten_free,sprinkles,filling
+chocolate-plain-on-sale,1.5,chocolate,True,False,"['strawberry-jelly', 'lemon-custard', 'peanut-butter-blast']"
+strawberry-goodness,1.5,"strawberry, dum dum",True,True,['strawberry Jelly']
+vanilla-swirl,1,vanilla,True,False,['swirly stuff']
+chocolate-blast,1.0,chocolate,True,True,
+name,cost,flavor,gluten_free,sprinkles,filling
+chocolate-plain-on-sale,1.5,chocolate,True,False,"['strawberry-jelly', 'lemon-custard', 'peanut-butter-blast']"
+strawberry-goodness,1.5,"strawberry, dum dum",True,True,['strawberry Jelly']
+vanilla-swirl,1,vanilla,True,False,['swirly stuff']
+chocolate-blast,1.0,chocolate,True,True,

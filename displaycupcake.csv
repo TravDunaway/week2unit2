@@ -1,0 +1,22 @@
+name,cost,flavor,gluten_free,sprinkles,filling
+mini-chocolate explosions,1.0,chocolate,True,True,
+strawberry-bananza,3,strawberry,True,True,[]
+banana-split,2,banana,True,True,[]
+peach-passion,3,peach,True,True,[]
+mini-brownie,1,chocolate,True,True,
+banana cream,2,banana,True,True,[]
+cherry-filled,1.5,cherry,True,True,[]
+vanilla,3,vanilla,True,True,[]
+mini-coconut,1,coconut,True,True,
+peanut-butter,3,peanut-butter,True,True,[]
+name,cost,flavor,gluten_free,sprinkles,filling
+mini-chocolate explosions,1.0,chocolate,True,True,
+strawberry-bananza,3,strawberry,True,True,[]
+banana-split,2,banana,True,True,[]
+peach-passion,3,peach,True,True,[]
+mini-brownie,1,chocolate,True,True,
+banana cream,2,banana,True,True,[]
+cherry-filled,1.5,cherry,True,True,[]
+vanilla,3,vanilla,True,True,[]
+mini-coconut,1,coconut,True,True,
+peanut-butter,3,peanut-butter,True,True,[]

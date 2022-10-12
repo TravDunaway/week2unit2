@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Cupcake orders</title>
+</head>
+<body>
+    <div>
+        Cupcake orders
+    </div>
+    <div>
+        <header>
+            {% for cupcake in cupcakes %}
+            <h3>Name: {{ cupcake["name"] }}</h3>
+            <h4>Cost: ${{ cupcake["cost"] }}</h4>
+            <h4>Flavor: {{ cupcake["flavor"] }}</h4>
+            <h4><b>Frosting: {{ cupcake["frosting"] }}</b></h4>
+            <h5>Gluten_free: {{ cupcake["gluten_free"] }}</h5>
+            <h6>Sprinkles: {{cupcake["sprinkles"]}}</h6>
+            <h6>Filling: {{cupcake["filling"]}}</h6>
+            {% endfor %} 
+        </header>
+    </div>
+    
+</body>
+</html>
